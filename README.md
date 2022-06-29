@@ -5,7 +5,7 @@
 
 a token toolkit and library
 
-```
+```sh
 ➜  x npx create-ts-lib-gh
 ? Library name: tooken
 ? Description: a token toolkit and library
